@@ -35,7 +35,7 @@
 # perfil.sys
 user:
   nome:      "Gabriel Queiroz"
-  funcao:    "Full Stack Developer · AI Enthusiast"
+  funcao:    "Full Stack Developer · Entusiasta de I.A"
   base:      "Brasil"
   idiomas:   ["Português", "English"]
 
@@ -92,7 +92,7 @@ status:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,neovim,git,github,postman,figma,notion,obsidian,discord,bash&theme=dark" alt="Ferramentas"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,discord&theme=dark" alt="Ferramentas"/>
 
 <br/><br/>
 
@@ -100,7 +100,6 @@ status:
 <img src="https://img.shields.io/badge/Claude-0a0e14?style=for-the-badge&logo=anthropic&logoColor=ff2e88&labelColor=0a0e14&color=ff2e88" alt="Claude"/>
 <img src="https://img.shields.io/badge/GitHub_Copilot-0a0e14?style=for-the-badge&logo=githubcopilot&logoColor=7c4dff&labelColor=0a0e14&color=7c4dff" alt="GitHub Copilot"/>
 <img src="https://img.shields.io/badge/Linux-0a0e14?style=for-the-badge&logo=linux&logoColor=00e5ff&labelColor=0a0e14&color=00e5ff" alt="Linux"/>
-<img src="https://img.shields.io/badge/Warp-0a0e14?style=for-the-badge&logo=warp&logoColor=ff2e88&labelColor=0a0e14&color=ff2e88" alt="Warp"/>
 
 </div>
 
