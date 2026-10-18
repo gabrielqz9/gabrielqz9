@@ -15,7 +15,6 @@
 <a href="#-sobre-mim"><img src="https://img.shields.io/badge/SOBRE-0a0e14?style=flat-square&logo=gnometerminal&logoColor=00e5ff&labelColor=0a0e14&color=00e5ff" alt="Sobre"/></a>
 <a href="#-tech-stack"><img src="https://img.shields.io/badge/STACK-0a0e14?style=flat-square&logo=stackblitz&logoColor=00e5ff&labelColor=0a0e14&color=00e5ff" alt="Stack"/></a>
 <a href="#-projetos"><img src="https://img.shields.io/badge/PROJETOS-0a0e14?style=flat-square&logo=files&logoColor=00e5ff&labelColor=0a0e14&color=00e5ff" alt="Projetos"/></a>
-<a href="#-estatísticas"><img src="https://img.shields.io/badge/STATS-0a0e14?style=flat-square&logo=graphql&logoColor=00e5ff&labelColor=0a0e14&color=00e5ff" alt="Stats"/></a>
 <a href="#-contato"><img src="https://img.shields.io/badge/CONTATO-0a0e14?style=flat-square&logo=maildotru&logoColor=00e5ff&labelColor=0a0e14&color=00e5ff" alt="Contato"/></a>
 
 </div>
