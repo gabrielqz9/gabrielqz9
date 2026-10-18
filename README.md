@@ -1,20 +1,7 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║  CONFIGURAÇÃO RÁPIDA                                         ║
-║  1. Substitua SEU_USUARIO pelo seu usuário do GitHub (Ctrl+H)║
-║  2. Edite o nome em assets/banner.svg (texto "SEU NOME")     ║
-║  3. Troque os repositórios dos cards em "Projetos"           ║
-║  4. Atualize os links de redes sociais                       ║
-║  Paleta: ciano #00E5FF · magenta #FF2E88 · fundo #0A0E14     ║
-╚══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-<img src="./assets/banner.svg" alt="J.A.R.V.I.S — inicialização do sistema" width="100%"/>
-
 <a href="https://github.com/gabrielqz9">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=720&height=50&lines=%3E+Inicializando+sistema...;Ol%C3%A1%2C+eu+sou+SEU+NOME;Desenvolvedor+Full+Stack;Entusiasta+de+IA+%26+Automa%C3%A7%C3%A3o;Construindo+o+futuro+uma+linha+de+c%C3%B3digo+por+vez" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=720&height=50&lines=%3E+Inicializando+sistema...;Ol%C3%A1%2C+eu+sou+Gabriel+Queiroz;Desenvolvedor+Full+Stack;Entusiasta+de+IA+%26+Automa%C3%A7%C3%A3o;Construindo+o+futuro+uma+linha+de+c%C3%B3digo+por+vez" alt="Estudando html"/>
 </a>
 
 <br/>
@@ -69,31 +56,31 @@ status:
 
 <img src="https://img.shields.io/badge/LINGUAGENS-0a0e14?style=for-the-badge&labelColor=0a0e14&color=00e5ff" alt="Linguagens"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=py,js,go,cs,java&theme=dark" alt="Linguagens"/>
+<img src="https://skillicons.dev/icons?i=py,js,cs&theme=dark" alt="Linguagens"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/FRONTEND-0a0e14?style=for-the-badge&labelColor=0a0e14&color=ff2e88" alt="Frontend"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Frontend"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/BACKEND-0a0e14?style=for-the-badge&labelColor=0a0e14&color=7c4dff" alt="Backend"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,flask,graphql,nestjs,spring&theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nestjs&theme=dark" alt="Backend"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/DADOS_%26_IA-0a0e14?style=for-the-badge&labelColor=0a0e14&color=00e5ff" alt="Dados e IA"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,tensorflow,pytorch&theme=dark" alt="Dados e IA"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Dados e IA"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/DEVOPS_%26_CLOUD-0a0e14?style=for-the-badge&labelColor=0a0e14&color=ff2e88" alt="DevOps e Cloud"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,nginx,linux&theme=dark" alt="DevOps e Cloud"/>
+<img src="https://skillicons.dev/icons?i=githubactions,linux&theme=dark" alt="DevOps e Cloud"/>
 
 </div>
 
@@ -125,7 +112,7 @@ status:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-cyber.svg" alt="Snake — animação de contribuições" width="100%"/>
+<img src="https://raw.githubusercontent.com/gabrielqz9/gabrielqz9/output/github-snake-cyber.svg" alt="Snake — animação de contribuições" width="100%"/>
 
 </div>
 
