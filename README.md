@@ -6,7 +6,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=gabrielqz9&label=VISITAS&style=for-the-badge&color=ff2e88&labelColor=0a0e14" alt="Visitas"/>
 <img src="https://img.shields.io/github/followers/gabrielqz9?style=for-the-badge&logo=github&logoColor=00e5ff&label=SEGUIDORES&color=00e5ff&labelColor=0a0e14" alt="Seguidores"/>
 <img src="https://img.shields.io/github/stars/gabrielqz9?style=for-the-badge&logo=starship&logoColor=ff2e88&label=ESTRELAS&color=ff2e88&labelColor=0a0e14" alt="Estrelas"/>
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00e5ff?style=for-the-badge&labelColor=0a0e14" alt="Status online"/>
