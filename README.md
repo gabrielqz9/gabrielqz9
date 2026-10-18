@@ -59,30 +59,6 @@ status:
 
 ```
 
-</td>
-<td width="38%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/%F0%9F%94%AD-Atualmente-00e5ff?style=for-the-badge&labelColor=0a0e14" alt="Atualmente"/>
-
-**Trabalhando em** <br/>
-projetos com IA generativa e APIs
-
-<img src="https://img.shields.io/badge/%F0%9F%8C%B1-Aprendendo-ff2e88?style=for-the-badge&labelColor=0a0e14" alt="Aprendendo"/>
-
-**Estudando** <br/>
-sistemas distribuídos e Rust
-
-<img src="https://img.shields.io/badge/%F0%9F%92%AC-Pergunte_sobre-7c4dff?style=for-the-badge&labelColor=0a0e14" alt="Pergunte sobre"/>
-
-**Python, JavaScript,** <br/>
-**automação e dev tools**
-
-</td>
-</tr>
-</table>
-
-> *"Sometimes you gotta run before you can walk."* — Tony Stark
-
 <br/>
 
 ---
@@ -93,19 +69,19 @@ sistemas distribuídos e Rust
 
 <img src="https://img.shields.io/badge/LINGUAGENS-0a0e14?style=for-the-badge&labelColor=0a0e14&color=00e5ff" alt="Linguagens"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=py,js,ts,rust,go,cs,java,bash&theme=dark" alt="Linguagens"/>
+<img src="https://skillicons.dev/icons?i=py,js,go,cs,java&theme=dark" alt="Linguagens"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/FRONTEND-0a0e14?style=for-the-badge&labelColor=0a0e14&color=ff2e88" alt="Frontend"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,sass,vite&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/BACKEND-0a0e14?style=for-the-badge&labelColor=0a0e14&color=7c4dff" alt="Backend"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,graphql,nestjs,spring&theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,flask,graphql,nestjs,spring&theme=dark" alt="Backend"/>
 
 <br/><br/>
 
