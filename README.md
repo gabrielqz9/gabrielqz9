@@ -124,7 +124,6 @@ status:
 
 <a href="https://linkedin.com/in/gabriel-queiroz09"><img src="https://img.shields.io/badge/LinkedIn-0a0e14?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=0a0e14&color=00e5ff" alt="LinkedIn"/></a>
 <a href="https://instagram.com/9gsbriel"><img src="https://img.shields.io/badge/Instagram-0a0e14?style=for-the-badge&logo=instagram&logoColor=ff2e88&labelColor=0a0e14&color=ff2e88" alt="Instagram"/></a>
-<a href="mailto:gabrielqueiroz.sp1@email.com"><img src="https://img.shields.io/badge/E--mail-0a0e14?style=for-the-badge&logo=gmail&logoColor=00e5ff&labelColor=0a0e14&color=00e5ff" alt="E-mail"/></a>
 
 </div>
 
