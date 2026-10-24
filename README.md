@@ -107,13 +107,21 @@ status:
 
 ## 🐍 Contribuições
 
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gabrielqz9/gabrielqz9/output/github-snake-cyber.svg" alt="Snake — animação de contribuições" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielqz9/gabrielqz9/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielqz9/gabrielqz9/output/github-contribution-grid-snake.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/gabrielqz9/gabrielqz9/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F0FF&height=2&width=100%" width="100%"/>
+
 <br/>
+
 
 ---
 
