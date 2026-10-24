@@ -1,5 +1,5 @@
 name: Generate Snake Animation
-
+ 
 on:
   schedule:
     - cron: "0 */12 * * *"   # atualiza a cada 12 horas
@@ -7,10 +7,10 @@ on:
   push:
     branches:
       - main
-
+ 
 permissions:
   contents: write
-
+ 
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake-cyber.svg?color_snake=ff2e88&color_dots=0f1722,0b4a5a,008aa3,00bcd4,00e5ff
-
+            dist/github-snake-cyber.svg?color_snake=ff2e88&color_dots=1c2736,0e6b82,0098b8,00c8e6,5cf2ff
+ 
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
